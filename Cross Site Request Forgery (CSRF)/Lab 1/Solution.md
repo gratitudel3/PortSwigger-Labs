@@ -28,11 +28,8 @@ You can log in to your own account using the following credentials: wiener:peter
 
 ![image.png](image%204.png)
 
-- The task is to change all the user’s email who visits this vulnerable site.
 
 **Exploit Server**
-
-![image.png](image%205.png)
 
 **Generating a CSRF POC to change user’s email address**
 
